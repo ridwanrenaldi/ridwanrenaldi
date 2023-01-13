@@ -15,6 +15,13 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=ridwanrenaldi" alt="ridwanrenaldi" /> 
   <img src="https://img.shields.io/github/followers/ridwanrenaldi?label=Follow&style=social" alt="ridwanrenaldi" /> 
 </p>
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg">
+  <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg">
+  <img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg">
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
+</p>
 </div>
 
 
