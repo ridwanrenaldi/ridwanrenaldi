@@ -318,7 +318,7 @@ Management Systems, Operating Systems
   <br>
 
   <li>
-    <a href="https://www.tiktok.com/@rid1bdbx" target="_blank" title="Tiktok">
+    <a href="https://www.tiktok.com/" target="_blank" title="Tiktok">
       <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok"/>
     </a>
   </li>
