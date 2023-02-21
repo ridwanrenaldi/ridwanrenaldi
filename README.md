@@ -241,8 +241,8 @@ Management Systems, Operating Systems
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ridwanrenaldi&repo=baseci&theme=material-palenight" />
   </a>
 
-  <a href="https://github.com/ridwanrenaldi/baseci4">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ridwanrenaldi&repo=baseci4&theme=material-palenight" />
+  <a href="https://github.com/ridwanrenaldi/foodblog">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ridwanrenaldi&repo=foodblog&theme=material-palenight" />
   </a>
 </p>
 
