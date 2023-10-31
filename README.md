@@ -49,7 +49,7 @@ Management Systems, Operating Systems
 
 - A passionate Self-taught Back-end developer
 - Currently learning Web Development by Self
-- I’m currently working on UMS
+- I’m currently working on University
 - Mostly working on **private repositories**
 - Ask me about anything, I love to answer!
 - I’m looking for a good project
@@ -301,7 +301,7 @@ Management Systems, Operating Systems
   <br>
 
   <li>
-    <a href="https://www.instagram.com/rid1bdbx/" target="_blank" title="Instagram">
+    <a href="https://www.instagram.com/" target="_blank" title="Instagram">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
   </li>
@@ -377,4 +377,4 @@ Management Systems, Operating Systems
 
 Credit: [Ridwan Renaldi](https://github.com/ridwanrenaldi)
 
-Last Edited on: 01/01/2023
+Last Edited on: 31/10/2023
